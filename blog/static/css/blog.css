@@ -1,0 +1,26 @@
+.page-header {
+    background-color: white;
+    margin: 0px;
+    padding: 20px 20px 20px 40px;
+    font-family: lobster;
+}
+
+.page-header a, .page-header a:visited, .page-header a:active {
+    color: black;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+.post {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 70px;
+}
+
+.post-header {
+    font-family: lobster;
+}
+
+.date {
+    color: #828282;
+}

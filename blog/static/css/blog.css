@@ -5,10 +5,20 @@
     font-family: lobster;
 }
 
-.page-header a, .page-header a:visited, .page-header a:active {
-    color: black;
-    font-size: 36pt;
+.page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active,
+.page-header h2 a, .page-header h2 a:visited, .page-header h2 a:active {
+    color: #006699;
     text-decoration: none;
+}
+
+
+.page-header h1 {
+    font-size: 36pt;
+}
+
+.page-header h2 {
+    font-size: 20pt;
+    color: #006699;
 }
 
 .post {
